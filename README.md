@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soitzu
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C#, Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me no
 
